@@ -27,4 +27,6 @@ int main(void){
     printf("WA x %d\n", counter_wa);
     printf("TLE x %d\n", counter_tle);
     printf("RE x %d\n", counter_re);
+
+    return 0;
 }

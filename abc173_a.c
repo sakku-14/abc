@@ -10,5 +10,5 @@ int main(void){
 
     change = fee * (-1);
     printf("%d\n", change);
-
+    return 0;
 }
